@@ -1,0 +1,15 @@
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\bin\Debug\Budget Buddy.exe.config
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\bin\Debug\Budget Buddy.exe
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\bin\Debug\Budget Buddy.pdb
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget Buddy.csprojResolveAssemblyReference.cache
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget_Buddy.Properties.Resources.resources
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget Buddy.csproj.GenerateResource.Cache
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget Buddy.csproj.CoreCompileInputs.cache
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget Buddy.exe
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget Buddy.pdb
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget_Buddy.Form1.resources
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget_Buddy.New_BPLan.resources
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget_Buddy.NewAccount.resources
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget_Buddy.NewBudget.resources
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget_Buddy.UserControl1.resources
+C:\Users\alexn\source\repos\Budget Buddy\Budget Buddy\obj\Debug\Budget_Buddy.New_Capital.resources
